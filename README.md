@@ -47,7 +47,7 @@ Misc
 - [scapy_unroot](https://github.com/scapy-unroot/scapy_unroot): tooling to use Scapy without root permissions
 - [sshame](https://github.com/HynekPetrak/sshame): tool to brute force SSH public-key authentication
 - [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework): The Offensive Manual Web Application Penetration Testing Framework
-
+- [Network Packet Sniffer](https://github.com/Papu11/Python-Scapy-Packet-Sniffer): Network Packet Sniffer written in Scapy to sniff TCP, UDP, ICMP Packets
 ### Exploits
 
 *Exploits that use Scapy. This does not count the ones included by default*
