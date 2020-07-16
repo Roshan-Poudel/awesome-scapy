@@ -47,7 +47,7 @@ Misc
 - [scapy_unroot](https://github.com/scapy-unroot/scapy_unroot): tooling to use Scapy without root permissions
 - [sshame](https://github.com/HynekPetrak/sshame): tool to brute force SSH public-key authentication
 - [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework): The Offensive Manual Web Application Penetration Testing Framework
-
+- [Wifi Security](https://github.com/Papu11/Wireless_Security_with_Python-Scapy): Scripting WiFi Pentesting Tools in Scapy
 ### Exploits
 
 *Exploits that use Scapy. This does not count the ones included by default*
@@ -66,3 +66,4 @@ Misc
 
 Misc
 - [isf](https://github.com/dark-lbp/isf): ISF (Industrial Control System Exploitation Framework). A suite that provides exploits various industrial protocols
+
